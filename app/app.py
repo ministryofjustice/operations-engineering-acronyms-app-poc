@@ -13,7 +13,7 @@ from app.main.config.limiter_config import configure_limiter
 from app.main.config.logging_config import configure_logging
 from app.main.config.routes_config import configure_routes
 
-from app.models import db, Acronym
+from app.models import db
 
 logger = logging.getLogger(__name__)
 
@@ -29,7 +29,7 @@ def create_app(is_rate_limit_enabled=True) -> Flask:
     app.config['SQLALCHEMY_DATABASE_URI'] = app_config.postgres.sql_alchemy_database_url
 
     db.init_app(app)
-    migrate = Migrate(app, db) # pylint: disable=W0612 # noqa: F841
+    Migrate(app, db)
 
     configure_routes(app)
     configure_error_handlers(app)

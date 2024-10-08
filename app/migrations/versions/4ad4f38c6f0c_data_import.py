@@ -18,7 +18,7 @@ depends_on = None
 
 
 def upgrade():
-    meta = sa.MetaData() 
+    meta = sa.MetaData()
     acronyms = sa.Table('acronyms', meta, autoload_with=op.get_bind())
 
     df_acronyms = pd.read_csv('main_acronyms_df_rated_cleaned.csv', dtype=str, na_filter=False)
@@ -35,7 +35,7 @@ def upgrade():
     op.bulk_insert(acronyms, acronyms_to_insert)
 
 
-def downgrade(): 
+def downgrade():
     meta = sa.MetaData()
     acronyms = sa.Table('acronyms', meta, autoload_with=op.get_bind())
 
@@ -48,7 +48,6 @@ def downgrade():
     })
     df_acronyms = df_acronyms[['abbreviation', 'definition', 'url', 'description']]
     df_acronyms = df_acronyms.where(pd.notnull(df_acronyms), None)
-
 
     acronyms_to_delete = df_acronyms.to_dict(orient='records')
 

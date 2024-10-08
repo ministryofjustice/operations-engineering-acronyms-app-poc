@@ -22,5 +22,4 @@ app_config = SimpleNamespace(
             f"{__get_env_var('POSTGRES_HOST')}:{__get_env_var('POSTGRES_PORT')}/{__get_env_var('POSTGRES_DB')}"
         )
     ),
-     
 )

@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Navigate to the application directory
-cd /home/operations-engineering-application
+cd /home/operations-engineering-application || exit
 
 # Ensure all environment variables are set
 export FLASK_APP="app.run:app()"  # Set this to your Flask app
