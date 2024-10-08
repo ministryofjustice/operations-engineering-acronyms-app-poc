@@ -12,7 +12,7 @@ env:
   KUBE_TOKEN: ${{ secrets.DEV_KUBE_TOKEN }}
 
   IMAGE_TAG: ${{ github.sha }}
-  ECR_REGISTRY: ${{ vars.DEV_ECR_REGISTRY }}
+  ECR_REGISTRY: ${{ secrets.ECR_REGISTRY_URL }}
   ECR_REPOSITORY: ${{ vars.DEV_ECR_REPOSITORY }}
   FLASK_APP_SECRET: ${{ secrets.DEV_FLASK_APP_SECRET }}
   SENTRY_DSN_KEY: ${{ secrets.SENTRY_DSN_KEY }}
@@ -24,12 +24,12 @@ jobs:
       id-token: write
       contents: read
     steps:
-      - uses: softprops/action-gh-release@vc062e08bd532815e2082a85e87e3ef29c3e6d191 #v2.0.8
+      - uses: actions/checkout@v4
 
       - uses: aws-actions/configure-aws-credentials@e3dd6a429d7300a6a4c196c26e071d42e0343502 # v4.0.2
         with:
           role-to-assume: ${{ secrets.DEV_ECR_ROLE_TO_ASSUME }}
-          aws-region: ${{ vars.DEV_ECR_REGION }}
+          aws-region: "eu-west-2"
 
       - uses: aws-actions/amazon-ecr-login@062b18b96a7aff071d4dc91bc00c4c1a7945b076 # v2.0.1
         id: login-ecr
@@ -57,7 +57,7 @@ jobs:
       - name: Deploy helm chart to dev
         run: |
           helm upgrade application\
-            helm/join-github \
+            helm/application \
             --install \
             --force \
             --wait \
