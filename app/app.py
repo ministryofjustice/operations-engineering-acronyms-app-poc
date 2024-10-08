@@ -12,7 +12,6 @@ from app.main.config.jinja_config import configure_jinja
 from app.main.config.limiter_config import configure_limiter
 from app.main.config.logging_config import configure_logging
 from app.main.config.routes_config import configure_routes
-from app.main.config.sentry_config import configure_sentry
 
 from app.models import db, Acronym
 
@@ -34,7 +33,6 @@ def create_app(is_rate_limit_enabled=True) -> Flask:
 
     configure_routes(app)
     configure_error_handlers(app)
-    configure_sentry(app_config.sentry.dsn_key, app_config.sentry.environment)
     configure_limiter(app, is_rate_limit_enabled)
     configure_jinja(app)
     configure_cors(app)
