@@ -11,7 +11,7 @@ RUN apk add --no-cache --no-progress \
   && apk upgrade --no-cache --available
 
 # Install pipenv
-RUN pip install --no-cache-dir pipenv
+RUN pip install --no-cache-dir pipenv==2024.1.0
 
 # Create user and group
 RUN addgroup -S appgroup && adduser -S appuser -G appgroup -u 1051
@@ -34,6 +34,16 @@ RUN pipenv install --deploy --ignore-pipfile
 # Copy application code
 COPY --chown=appuser:appgroup app app
 
+# Copy data file 
+COPY --chown=appuser:appgroup data/main_acronyms_df_rated_cleaned.csv .
+
+# Copy the entrypoint script
+COPY --chown=appuser:appgroup entrypoint.sh .
+
+# Make the entrypoint script executable
+RUN chmod +x entrypoint.sh
+
+
 # Environment variables
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
@@ -45,4 +55,4 @@ EXPOSE 4567
 HEALTHCHECK --interval=60s --timeout=30s CMD curl -I -XGET http://localhost:4567 || exit 1
 
 # Use pipenv to run gunicorn
-ENTRYPOINT ["pipenv", "run", "gunicorn", "--bind=0.0.0.0:4567", "app.run:app()"]
+ENTRYPOINT ["/home/operations-engineering-application/entrypoint.sh"]

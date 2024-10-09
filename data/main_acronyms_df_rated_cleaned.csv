@@ -1,0 +1,798 @@
+,Abbreviation,Definition,URL,Info,TextBlob_Subjectivity,Vader_SentimentScore,no_of_abreviations
+0,102PF,102 Petty France,,London headquarters of the Ministry of Justice,0,0.5267,0
+1,10SC,10 South Colonnade,,London Government hub,0,0,0
+2,1LS/2LS/3LS,"1st, 2nd or 3rd Line Support",,,0,0,0
+6,A2J,Access to Justice,,,0,0,0
+7,AA,Administrative Assistants,,,0,0,0
+9,AAC,Administrative Appeals Court,,,0,0,0
+10,Acas,"Advisory, Conciliation and Arbitration Service",,Aims to prevent and resolve employment disputes prior to employment tribunals.,0.333333333,0.1531,0
+11,ACCT,"Assessment, Care in Custody and Teamwork",,Self-Harm document - replacement for 2052Sh Self-harm document.,0,0,0
+12,ACL,Access Control List,,,0,0,0
+14,ACPO,Association of Chief Police Officers,,,0,0,0
+15,ACR,Automatic Conditional Release,,,0,0,0
+16,AD,Active Directory,,,0,0,0
+18,ADI,Application Desktop Integrator,,,0,0,0
+20,ADR,Alternative dispute resolution,,"A method of resolving disputes outside court - for example, via mediation",0.05,0.128,0
+21,ADR,Architectural design record,,,0,0,0
+22,AEP,Accelerated Encryption Processing,,,0,0,0
+24,AFK,Away From Keyboard,,,0,0,0
+25,AGFS,Advocate Gradual Fees Scheme,,Fee scheme available to Barristers who work on Crown Court cases,0.4,0,0
+26,AIS,Acceptance Into Service,,,0,0,0
+27,AJAS,Access to Justice Analytical Services,,,0,0,0
+28,AJTC,Administrative Justice Tribunals Council,,,0,0,0
+29,ALB,Arm's-length body,https://www.gov.uk/guidance/public-bodies-reform#what-is-a-public-body,A specific category of central government public bodies that are administratively classified by the Cabinet Office.,0.147222222,0,0
+30,ALM,Application Lifecycle Management,,,0,0,0
+32,ALS,Action Learning Set,,,0,0,0
+33,AMI,Amazon Machine Image,,,0,0,0
+34,AO,Accommodation and Occupancy (also known as *A&O*),,,0,0,0
+35,AO,Accounting Officer,,"Each organisation in central government must have an Accounting Officer, which is usually the senior official in the organisation.Accounting Officers must be able to assure Parliament and the public of high standards of probity in the management of public funds. The Treasury maintains policy oversight throughout. Departments and organisations should notify the Treasury Officer of Accounts, in advance, of any changes to Accounting Officer designations. There should be no gap between one Accounting Officer leaving and another being appointed.",0.299722222,0.4215,0
+36,AO,Administrative Officer,,,0,0,0
+37,AOB,Any Other Business,,,0,0,0
+38,AOS,Acknowledgement of Service,,Document filed by a defendant confirming they've been served court documents.,0,0,0
+39,AP,Approved Premises,,,0,0,0
+40,AP,Analytical Platform,,,0,0,0
+41,APD,Approved Parole Date,,,0,0,0
+42,API,Application Programming Interface,,,0,0,0
+43,APPG,All Party Parliamentary Group,,"APPGs are informal cross-party groups that have no official status within Parliament. They are run by and for Members of the Commons and Lords, though many choose to involve individuals and organisations from outside Parliament in their administration and activities.",0.275,-0.296,0
+46,ARD,Automatic Release Date,,,0,0,0
+47,ARMS,Active Risk Management System,,,0,0,0
+49,ARV,Alcohol Related Violence,,Substance Misuse Programme (no longer running).,0,0,0
+51,ASPIRE,Assess – Sentence Plan – Implement – Review – Evaluate,,This is the core framework of offender management/sentence planning,0,-0.3612,0
+52,ASRO,Addressing Substance Related Offending,,Substance Misuse Programme (no longer running).,0,0,0
+53,AT,Assisted Technology,,,0,0,0
+55,ATO,Authority to operate,,,0,0,0
+56,ATR,Alcohol Treatment Requirements,,,0,0,0
+57,AVD,Azure Virtual Desktop,,,0,0,0
+58,AWDL,Average Working Days Lost,,,0,0,0
+59,AWS,Amazon Web Services,,,0,0,0
+60,BA,Business Analyst or Business Admin,,,0,0,0
+61,BAFO,Best And Final Offer,,,0,0,0
+62,BAME,"Black, Asian and Minority Ethnic",,,0,0,0
+65,BAU,Business as Usual,,,0,0,0
+67,BCS,Basic Custody Screening,,,0,0,0
+68,BCST,Basic Custody Screening Tool,,An assessment tool used for the management of people at the point they begin a custodial sentence.,0,0.0772,0
+69,BDG,Business Development Group,,,0,0,0
+70,BEIS,"Department for Business, Energy and Industrial Strategy",,"Merger between the Department of Business, Innovation and Skills and the Department of Energy and Climate Change",0,0.5719,0
+71,BI,Business Intelligence,,,0,0,0
+73,BIAR,Business Intelligence Archive,,Basically a proprietary zip file used to move Business Intelligence content from one BusinessObjects Enterprise Server to another,0,0.4767,0
+76,BIP,Business Intelligence Platform,,,0,0,0
+77,BIS,Department for Business Innovation & Skills,,,0,0,0
+79,BNM,Becoming New Me,,A thinking skills programme for people with a learning disability,0,0,0
+81,BOTUS,Breach of Top Up Supervision,,,0,0,0
+82,BPSS,Baseline Personnel Security Standard,,The minimum level of clearance for someone working in the Civil Service.,0,0,0
+84,BSR,Building Skills for Recovery,,Substance misuse programme,0,0,0
+86,BWVC,Body Worn Video Camera,,"Cameras worn by Uniformed staff within prisons, to de-escalate & record incidents",0,-0.296,0
+89,CA,Case Administrators,,"Staff based in Prisons or Probation offices, who manage the day to day admin of cases and records",0,0,0
+90,CA,Citizen's Advice,,"Charity, funded largely by central and local government, that provides a one-stop non-specialist advice on many different issues.",0.3375,0.4215,0
+91,CAFCASS,Children and Family Court Advisory and Support Service,,,0,0,0
+92,CAIT,Child Abuse Investigation Team,,,0,0,0
+93,CAIT,Child Arrangements Information Tool,,"Information resources to help separating couples make arrangements (custody, etc.) for their children.",0,0.4019,0
+98,CARM,Civil Automatic Referral to Mediation,,A process automatically referring some Civil cases to mediation.,0,0,0
+99,CAS,Community accommodation services,,,0,0,0
+102,CAS-3,"The Community Accommodation Service, Tier 3",,A service providing transitional accommodation (84 nights) to people who are at risk of homelessness after leaving prison or another type of CAS,0,0,0
+107,CBDT,Compact Based drug testing,,"Formerly known as Voluntary Drug Testing. Used as an incentive to keep prisoners drug-free, by them signing a compact to undertake regular drug testing and earning rewards based on remaining drug-free.",0.038461538,0.3182,0
+108,CBO,crime billing online,,,0,0,0
+110,CC,Carbon Copy,,,0,0,0
+114,CCM,Commercial Contract Management,,,0,0,0
+115,CCMCC,County Court Money Claims Centre,,,0,0,0
+116,CCMD,Commercial and Contract Management Directorate,,,0,0,0
+119,CCP,Corporate Change Portfolio,,,0,0,0
+123,CCR,Court Custody Records,,,0,0,0
+124,CCRC,Criminal Cases Review Commission,,,0,0,0
+126,CCS,Crown Commercial Service,,,0,0,0
+127,CDA,Court data adaptor,,,0,0,0
+128,CDC,Change Data Capture,,,0,0,0
+129,CDC,Change Directorate Committee,,,0,0,0
+131,CDD,Criminal Defence Direct,,Telephone adviser run by a few providers.,0.1,0,0
+133,CDM,HMPPS Contract Delivery Manager,,,0,0,0
+134,CDO,Chief Digital Officer,,,0,0,0
+135,CDPs,Crime & Drugs Partnership,,,0,0,0
+136,CDT,Central Drafting Team,,In reference to ministerial correspondence,0,0,0
+138,CEMLI,"Configuration, Extension, Modification, Localisation and Integration",,,0,0,0
+139,CEO,Court enforcement officer,,,0,0,0
+141,CFE,Check Financial Eligibility,,"A non-user facing service which calculates an applicant’s financial eligibility using data entered through Apply. This includes information on an applicant’s income and outgoings, and calculations include a range of different things in accordance with legal aid regulation based on what information is entered.",0.266666667,0.128,0
+143,CFO,HMPPS Co-Financing Organisation,,The Co-Financing Organisation has delivered services to offenders in custody and the community since January 2010. Services are delivered via contracted prime providers,0,-0.3612,0
+146,CHAPS,Correspondence Handling And Processing System,,,0,0,0
+148,CHS,Case Handling System,,Set of applications used by the Civil Legal Aid Operator Contact Centre and Specialist Legal Providers to manage Civil Legal Aid cases opened by members of the public in England and Wales.,0.166666667,0.3612,0
+150,CIPD,Chartered Institute of Personnel & Development,,,0,0,0
+151,CIRASS,"Community Interventions, Residential and Accommodation Support Service",,,0,0,0
+154,CJAS,Criminal Justice Analytical Service,,,0,0,0
+155,CJG,Criminal Justice Group,,,0,0,0
+157,CJIT,Criminal Justice Information Technology,,,0,0,0
+161,CJX,Criminal justice eXtranet,,links police pnn network to other govt networks,0.375,0,0
+163,CLA,Civil Legal Aid,,,0,0,0
+165,CMAC,Court Martial Appeals Court,,,0,0,0
+166,CMT,Contract Management Team,,,0,0,0
+169,CO,Community Order,,,0,0,0
+170,COACD,Court of Appeal Criminal Division,,,0,0,0
+171,COBR,Cabinet Office Briefing Room,,,0,0,0
+173,COE,Center of Excellence,,Microsoft Power Platform management tooling,0,0,0
+176,COM,Community Offender Managers,,A role within the National Probation Service,0,0,0
+177,COM,Court Operations Manager,,,0,0,0
+178,COM-B,"Capability, Opportunity, and Motivation Behaviour",,,0,0,0
+179,COPs,Contracted Out Prisons,,Privately run establishments,0.375,0,0
+180,Core SOTP,Core Sex Offender Treatment Programme,,Sex Offender Treatment Programme (no longer running).,0,-0.3612,0
+181,COTS,Commercial off-the-shelf,,"A software and/or hardware product that is commercially ready-made and available for sale, lease, or license to the general public. ",0,0,0
+182,COVAID,Control of Violence for Angry Impulsive Drinkers,,Substance Misuse Programme,0,0,0
+184,CP,Cloud Platform,,The MoJ Cloud Platform is a modern hosting platform for digital services,0.15,0,0
+185,CP,Core Programme,,Sex Offender Treatment Programme (no longer running).,0,-0.3612,0
+187,CPIG,Crown Prosecution Inspectorate Group,,Fire Safety,0,0.1027,0
+188,CPM,Child Protection Management,,,0,0,0
+189,CPO,Chief Probation Officer,,,0,0,0
+190,CPO,Community Probation Officer,,,0,0,0
+191,CPO,Community Punishment Order,,,0,0,0
+192,CPP,common platform project,,,0,0,0
+193,CPR,Civil Procedure Rule,,A rule covering how Civil litigation proceeds in the courts.,0,-0.2023,0
+194,CPR,Criminal Procedure Rules,,,0,0,0
+196,CPRC,Civil Procedure Rule Committee,,,0,0,0
+199,CR,Change Request,,,0,0,0
+200,CRAMS,Case Reporting And Management System,,Person on probation caseload data (Probation),0,0,0
+202,CRC,Community Rehabilitation Company,,"Organisations that will deliver probation services from 2014, replacing probation trusts.",0,0.4767,0
+203,CRD,Conditional Release Date,,,0,0,0
+204,CRDS,Calculate Release Dates Service,,,0,0,0
+205,CRE,Commission for Racial Equality,,,0,0,0
+209,CRN,Case Reference Number,,The number assigned to a person on probation in NDelius - the word case is misleading,0,-0.34,0
+210,CRO,Community Responsible Officer,,Equivalent of a Community Offender Manager but in CRCs,0,-0.1901,0
+212,CRO,Community Rehabilitation order,,,0,0,0
+213,CRP,Conference Room Pilot,,,0,0,0
+214,CRS,Commissioned Rehabilitative Services,,Rehabilitation and resettlement interventions procured through the Dynamic Framework - the mechanism to procure rehabilitation and resettlement interventions in regional areas,0.166666667,0.3818,0
+215,CS,Case Supervisor,,,0,0,0
+216,CSAAP,Correctional Services Accreditation and Advice Panel,,,0,0,0
+217,CSAT,Customer Satisfaction,,,0,0,0
+220,CSC,Central Services Centre,,,0,0,0
+224,CSL,Civil Service Learning,,Training courses for civil servants.,0,0,0
+225,CSOGP,Community Sex Offender Group Programme,,Sex Offender Treatment Programme (no longer running).,0,-0.3612,0
+229,CSV,Community Service Volunteer,,,0,0,0
+231,CTS,Core Technology Services team,,,0,0,0
+232,CTSA2021,Counter Terrorism and Sentencing Act 2021,,,0,0,0
+233,CTSC,Courts and Tribunals Service Centre,,,0,0,0
+237,CVCC,Court Video Conference Centre,,,0,0,0
+238,CVL,Create and Vary a Licence,,"New Digital Service, currently in development to replace and improve on the current Licence creation & editing process carried out in the Legacy system, NOMIS. Allows users from prisons and probation to collaborate on the licence management of prisoners being released into the community",0,0,0
+242,DYO,Deter Young Cohort Offender,,,0,0,0
+243,DAAT,Drugs & Alcohol Action Team,,,0,0,0
+244,DAC,Digital Accessibility Centre,,An org who do accessibility testing and consultancy on digital services,0,0,0
+245,DACU,Data Access and Compliance Unit,,,0,0,0
+247,DARTS,Digital Audio Recording and Transcription Service,,System for recording courts and allowing transcription agencies to listen to and upload transcriptions.,0,0,0
+248,DARU,Data Assurance Reporting Unit,,,0,0,0
+249,DASD,Data & Analytical Services Division,,,0,0,0
+250,DASHRAS,Data Science And HR Analytical Services,,,0,0,0
+252,DBS,Defence Business Services,,,0,0,0
+253,DBS,Disclosure and Barring Service,,"Organisation that maintains records and helps determine if someone should be prevented from working in a regulated activity, for example working with children.",0,0.4019,0
+255,DCF,Digital Case File,,An attempt at creating end-to-end digital/modern justice system from Police -> Crown Prosecution Service -> Courts -> Prisons -> Probation,0,0.34,0
+256,DCMF,"Designed, Constructed, Managed & Financed",,,0,0,0
+257,DCR,Discretional Conditional Release,,,0,0,0
+258,DD,Deputy Director,,,0,0,0
+259,DDA,Disability Discrimination Act 1995,,,0,0,0
+260,DDaT,"Digital, Data and Technology",,,0,0,0
+261,DDC,Deputy Director of Custody,,Regional responsibilty for a group of prisons,0,0,0
+262,DDC,Digital Document Conversion,,,0,0,0
+263,DDDCC,Data Driven Department and Culture Change,,,0,0,0
+264,DDJ,Deputy District Judge,,A judge who sits for between 15 to 50 days a year in the County Courts,0,0,0
+266,DFD,Data Flow Diagram,,,0,0,0
+269,DGAB,Data Governance Assurance Board,,,0,0,0
+270,DHSC,Department of Health and Social Care,,"The Department of Health and Social Care leads, shapes and funds health and social care in England.",0.066666667,0.7506,0
+271,DIB,Divisional Implementation Board,,,0,0,0
+272,DIC,Death in custody,,"A term used when an person dies in custody, either police, court, prison or when released on licence. Covers all forms of death - self inflicted, overdoses, natural causes, due to illness, murder etc.",0,0,0
+273,DID,Drink Impaired Drivers,,Substance Misuse Programme,0,0,0
+277,DISO,Digital Infrastructure Security Operations,,,0,0,0
+278,DIWG,Data Integrity Working Group,,Looking at data and/or recording issues in Probation,0,0,0
+280,DLP,Data Loss Prevention,,,0,0,0
+281,DOM,Director of Offender Management,,,0,0,0
+282,DOM1/Dom1,Domain 1,,End-user compute and networking solution,0,0.3182,0
+283,DPA,Data Protection Act,,,0,0,0
+284,DPIA,Data Protection Impact assessment,,,0,0,0
+285,DPR,Digital Prison Reporting,,,0,0,0
+286,DPRRD,Detention Post Recall Release Date,,,0,0,0
+289,DQ,Directions Questionnaire,,Form sent to claimants and defendants in small claim cases so the judge can give instructions,0.4,0,0
+290,DQ,Data Quality,,,0,0,0
+292,DR,Disaster Recovery,,,0,0,0
+294,DRR,Drug Rehabilitation Requirement,,,0,0,0
+297,DSA,Data Sharing Agreement,,,0,0,0
+299,DSCC,Defence Solicitor Call Centre,,The call centre service that police use to provide a solicitor for people in custody.,0,0,0
+300,DSD,Digital Service Designers,,,0,0,0
+302,DSDS,Defence Solicitor Deployment Service,,,0,0,0
+303,DSF,Digital Services Framework,,A framework for procuring software development teams across government,0,0,0
+304,DSG,Digital Steering Group,,,0,0,0
+306,DSO,Defence & Security Organisation,,,0,0,0
+307,DSO,Deskside Support Officer,,,0,0,0
+308,DSO,Digital Studio Operations,,Slack Channel - #ask-digital-studio-ops,0,0,0
+309,DSOs,Departmental Strategic Objectives,,,0,0,0
+310,DSRG,Data Standards Reporting Group,,,0,0,0
+312,DST,Designated Search Team,,,0,0,0
+314,DTO,Detention Training Order,,,0,0,0
+315,DTRG,Digital Technology Review Group,,,0,0,0
+316,DTTO,Drug Treatment and Testing Orders,,,0,0,0
+317,DV,Developed Vetting,,Level of Security Clearance,0,0.34,0
+321,DYOI,Detention in a Young Offender Institution,,,0,0,0
+322,E3,"Effectiveness, Efficiency and Excellence",,The change programme that will design and implement a new operation model for the National Probation Service,0.454545455,0,0
+324,EAT,Employment Appeal Tribunal,,,0,0,0
+326,ECHR,European Convention on Human Rights,,An international treaty to protect human rights and fundamental freedoms in Europe.,0.05,0.5859,0
+328,ECS,Elastic Container Service,,,0,0,0
+330,EDM,Exceptional Delivery Model,,,0,0,0
+331,EDR,Earliest Date of Release,,,0,0,0
+333,EDS,Extended Determinate Sentence,,,0,0,0
+335,EDS100,Extended Determinate Sentence imposed for certain Terrorism Offences,,,0,0,0
+340,EM,Escort Manager,,,0,0,0
+341,EMAP,Email a Prisoner,,,0,0,0
+342,EMED,Electronic Monitoring Eligibility Date,,,0,0,0
+345,EMT,Equalities Monitoring Tool,,,0,0,0
+346,EOI,Expression of Interest,,Recruitment method that can sometimes be utilised. Ie. filling short-term vacancies with internal staff,0,0,0
+347,EP,Extended Programme,,Sex Offender Treatment Programme (no longer running).,0,-0.3612,0
+348,EPAW,Express Prior Authority in Writing,,Related to the disclosure of military service,0.25,0,0
+350,EPICK,"Event, Problem, Incident, Continual Service Improvement and Knowledge Team",,,0,0,0
+351,EQUIP,Excellence and Quality in Probation Processes,,,0,0,0
+352,ERMP,Exceptional Regime Management Plan,,,0,0,0
+353,ERP,Enterprise Resource Planning,,,0,0,0
+354,ERS,Early Removal Scheme,,,0,0,0
+355,ERSED,Early Removal Scheme Eligibility Date,,,0,0,0
+357,ESED,Effective Sentence End Date,,,0,0,0
+359,ESL,Effective Sentence Length,,Representation of sentence length as a single period term,0.214285714,0.0772,0
+360,ESOL,English for Speakers of Other Languages,,,0,0,0
+361,ESPP,Extended Sentence for Public Protection,,,0,0,0
+363,ET,Employment Tribunal,,,0,0,0
+364,ETD,Early Transfer Date for Detention and Training Orders (DTO),,,0,0,0
+365,ETE,"Education, Training & Employment",,,0,0,0
+366,ETL,"Extract, Transform & Load",,,0,0,0
+368,EUCS,End User Compute Services,,,0,0,0
+369,Ex-ASP,Ex-Armed Service Personnel,,,0,0,0
+370,ExCo,Executive Comity Board,,Permanent Secutary and Director Generals (6 of).,0,0,0
+371,EXHIBIT,See XHIBIT,,,0,0,0
+372,Exhibit,Database co-ordinated by Crown Courts,,,0,0,0
+373,EXISS,Exchange Integration Services Stream,,,0,0,0
+376,F2050,prisoner core record,,protected characteristics and case information,0,0.4404,0
+378,FaSO,Family and Significant Other,,,0,0,0
+380,FCO,Foreign and Commonwealth Office,,,0,0,0
+382,FDR,Fast Delivery Report,,,0,0,0
+385,FiAP,Find a Prisoner service,,,0,0,0
+386,FITS,Future IT Sourcing Programme,,,0,0.4019,0
+387,FLO,Family Liaison Officer,,,0,0,0
+388,FMB,Functional Mailbox,,,0,0,0
+390,FNC,First Night Centre,,"A unit or wing dedicated to people newly arriving in prison. Allows them to be observed easier in cases of detox, medical issues, self-harm etc. Often these wings have different observation hatches in the door to a normal wing, allowing for easier observation & issuing of medications to people without having to open the door during patrol state",0.440909091,0.6486,0
+391,FNP,Foreign National Prison or Foreign National Prisoner,,,0,0,0
+392,FOCUS,FOCUS,,Substance Misuse Programme (no longer running).,0,0,0
+393,FOI,Freedom of Information,,The Freedom of Information Act 2000 created a public 'right of access' to information held by public authorities.,0.223015873,0.7351,0
+397,FRPS,Financial Resources and Payment for Services,,,0,0,0
+398,FSAS,Finance and Strategy Analytical Service,,,0,0,0
+399,FTE,Full Time Equivalent,,,0,0,0
+400,FTR,Fixed Term Recall,,,0,0,0
+401,G&O,Governance & Operational Data,,,0,0,0
+402,GAL,Global Address List,,,0,0,0
+403,GBS,Government Banking Service,,,0,0,0
+404,GDS,Government Digital Service,,,0,0,0
+406,GIAA,Government Internal Audit Agency,,,0,0,0
+407,GIRR,Government Information Risk Return,,,0,0,0
+409,GL,General ledger,,,0,0,0
+413,GORS,Government Operational Research Services,,Operational research (also known as 'management science') is the application of scientific methods to management problems.,0,-0.4019,0
+414,GPC,Government Procurement Card,,"Like a credit card, but with additional public sector controls etc. Divisions can use it for small purchases.",0.233333333,0.3716,0
+415,GPP,Generic Parole Process,,,0,0,0
+417,GSCPP,Government Security Centre People and Physical,,,0,0,0
+418,GSI,Government Secure Intranet,,,0,0,0
+421,GWS,Government Wide Service,,,0,0,0
+425,HDCAD,Home Detention Curfew Approved Date,,,0,0,0
+426,HDCED,Home Detention Curfew Eligibility Date,,,0,0,0
+428,HLT,HMPPS Leadership Team,,,0,0,0
+432,HMG,His Majesty's Government,,,0,0,0
+435,HMPPS,HM Prison and Probation Service,,,0,0,0
+437,HNA,Health Needs Assessment,,,0,0,0
+438,HNA,Hostage Negotiation Advisors,,,0,0,0
+440,HoBA,Head of Business Assurance,,,0,0,0
+441,HOIT,Home Office IT,,,0,0,0
+442,HOMD,Head of Offender Management Delivery,,An individual who can assign POMs to offenders,0.4,-0.3612,0
+443,HOPO,Home Office Production Order,,,0,0,0
+444,Horizon,Horizon Sex Offender Treatment Programme,,Sex Offender Treatment Programme,0,-0.3612,0
+446,HPP,High Performing Prison,,,0,0,0
+447,HPT,Homelessness Prevention Team,,,0,0,0
+448,HQ,Headquarters,,,0,0,0
+449,HR,Human Resources,,,0,0,0
+450,HRD,Human Resource & Development,,,0,0,0
+451,HRM,Human Resource Management,,,0,0,0
+454,HSP / HSF,Healthy Sex Programme / Health Sexual Functioning Programme,,Sex Offender Treatment Programme,0,-0.3612,0
+455,HTA,Hierarchical Task Analysis,,,0,0,0
+456,HWF,Help with Fees,,"The service formerly known as Fee Remission.Two parts, public and staff-facing",0.033333333,0,0
+458,I-SOTP,Internet Sex Offender Treatment Programme,,Sex Offender Treatment Programme (no longer running).,0,-0.3612,0
+459,IA,immigration and asylum,,As in 'Immigration and Asylum Tribunal'.,0,0,0
+463,IAC,Immigration and Asylum Chamber,,,0,0,0
+464,IAC,Intensive Alternative to Custody,,,0,0,0
+466,IAPS,Integrated Accredited Programmes System,,,0,0,0
+468,ICA,Initial Categorisation Assessment,,,0,0,0
+471,IDAP,Government Digital Service's identity assurance programme,,,0,0,0
+473,IDPC,Used in Defence request,,,0,0,0
+476,IEP,Incentive/Earned Privilege (level),,,0,0,0
+477,IEPS,Incentives & Earned Privileges Scheme,,,0,0,0
+478,IFS,Interim financial system,,,0,0,0
+479,IICSA,Independent Inquiry into Child Sexual Abuse,,,0,0,0
+480,IIP,Investors In People,,,0,0,0
+483,ILP,Individual Learning Plan,,,0,0,0
+484,IM,Interventions Manager,,Specifically related to NDelius,0.4,0,0
+486,IMB,Independent Monitoring Board,,"Statutory bodies that monitor Prisons, the welfare of staff & prisoners, to ensure they are properly cared for whilst in custody and detention.",0.1,-0.1027,0
+487,IMR,Inmate Medical record,,,0,0,0
+488,IMS,Intelligence Management Service,,,0,0,0
+489,IMSU,Incident Management Support Unit,,,0,0,0
+490,INView,INView,,A system which supports the delivery of efficient and effective custodial services by providing cost and resource use information and reporting for services delivered in public sector prisons,0.433333333,0.8126,0
+491,IOCCO,Interception of Communications Commissioner's Office,,,0,0,0
+493,IOM,Integrated Offender Management,,,0,0,0
+495,IPPF,Integrated Probation Performance framework,,,0,0,0
+497,IPV,Intimate Partner Violence,,,0,0,0
+499,IQR,Implementation Quality Report,,,0,0,0
+500,IR,Intelligence Report,,"A method of reporting intelligence information to the Security department via the Mercury system (generally done electronically, but paper versions are available to those without computer access)",0.45,0.4118,0
+501,IRaT,Incident Response and Tuning,,Live product support at MoJ Digital.,0.25,0.4019,0
+503,IRS,Incident Reporting System,,A bolt on software to PNOMIS for recording incidents within Prisons and escorts.,0,0,0
+505,IS91,A prisoner who has been detained under Immigration Act powers.,,,0,0,0
+507,ISP,Indeterminate Sentence Prisoner,,"An offender who has not been given a release date. These offenders have to satisfy a parole board before they are considered for release, so they have an eligability date from which they can apply to the parole board, but they do not have a set date for release since a decision is made based on a number of factors such as behaviour in prison, engagement with victim awareness programmes etc",0.275,-0.4854,0
+508,ISP,Initial Sentence Plan,,,0,0,0
+510,ISS,Investigations Support Services,,"Based in Crown House, Corby",0,0,0
+511,ISSS,Information and System Support Services,,,0,0,0
+514,ITIL,"ITIL, formerly[1] an acronym for Information Technology Infrastructure Library, is a set of detailed practices for IT service management (ITSM) that focuses on aligning IT services with the needs of business.",,,0,0,0
+515,ITN,Invitation to negotiate,,Confusing acronym - as more commonly used for Independent Television News.,0.38125,-0.2263,0
+516,IWC,Intermittent Weekday Custody,,,0,0,0
+518,JAC,Judicial Appointments Commission,,,0,0,0
+519,JC,Justices' clerk,,"Legally-trained member of staff in a magistrates' court, who advises the mags (who are volunteers) on tricky questions about the law.",0,-0.1531,0
+520,JCHR,Joint Committee on Human Rights,,,0,0,0
+521,JES,Job Evaluation Scheme,,,0,0,0
+523,JHA,Justice and Home Affairs,,One of the policy areas of the Council of the European Union,0,0,0
+524,JIRPA,Joint Industrial Procedural Agreement,,,0,0,0
+526,JR,Judicial Review,,Judicial review is a type of court proceeding in which a judge reviews the lawfulness of a decision or action made by a public body.,0.083333333,0,0
+527,JS,JavaScript,,Computer code used predominantly in Web browsers to provide enhanced user interaction.,0,0,0
+528,JS,Jury Summons,,,0,0,0
+530,JSAS,Justice Statistics Analytical Services,,A unit within Ministry of Justice Analytical Services Directorate.,0,0.5267,0
+531,JSC,Justice Select Committee,,,0,0,0
+532,JSON,JavaScript Object Notation,,"A simple, lightweight data format.",0.357142857,0,0
+536,KBA,Knowledge Base Article,,,0,0,0
+537,KBD,Key Business Decisions,,,0,0,0
+538,Key Traka,See: Traka,,,0,0,0
+539,KI,Known Incident,,,0,0,0
+541,KML,Keyhole Markup Language,,,0,0,0
+542,KPI,Key Performance Indicator,,A type of performance measurement that evaluates the success of an organisation or of a particular activity.,0.166666667,0.5719,0
+543,KPT,Key Performance Target,,A type of performance measurement that evaluates the success of an organisation or of a particular activity.,0.166666667,0.5719,0
+545,KW,Key Worker,,,0,0,0
+546,L&D,Learning & Development,,,0,0,0
+547,LA,Legal Advisor,,,0,0,0
+549,LAA,Local Area Agreements,,"Local Area Agreements (LAAs) set out the priorities for a local area, as agreed between central government, the Local Authority and Local Strategic Partnership, and other key partners.",0.232142857,0.5423,0
+554,LBBs,"Locks, Bars & Bolts",,"Old school terminology used by Prison Officers many years ago. Now more commonly known as Daily Cell Searching, which should be undertaken to identify any hazards, weapons, contraband in a cell & also ensure all the fittings & fixtures are in tact & working, including the security measures such as door locks, bars on the windows etc.",0.366666667,-0.296,0
+555,LBs,Living Blocks,,,0,0,0
+556,LCJ,Lord Chief Justice,,Head of the judiciary in England and Wales,0,0,0
+557,LCJB,Local Criminal Justice Board,,,0,0,0
+558,LDD,Learning Difficulties and Disabilities,,,0,0,0
+559,LDD,Local Delivery Directory,,Delivery of PSAs,0,0,0
+560,LDU,Local Delivery Unit,,,0,0,0
+561,LED,Licence Expiry Date,,,0,0,0
+562,LEDS,Law Enforcement Data Service,,,0,0,0
+564,LGBT,"Lesbian, Gay, Bi-sexual & Transgender (network)",,,0,0,0
+565,LGFS,Litigators Graduated Fees Scheme,,Fee scheme available to Solicitors who work on Crown Court cases,0.4,0,0
+566,LIAP,Low Intensity Alcohol Programme,,Substance Misuse Programme (no longer running).,0,0,0
+568,Libra,Database co-ordinated by Magistrates Courts,,,0,0,0
+570,LiP,Litigant in Person,,An individual representing themselves at court without legal representation,0.3,-0.0951,0
+571,LiPs,Litigants in Persons,,People at court without a professional representative.,0.1,0,0
+573,LNM,Living as New Me,,Sex Offender Treatment Programme,0,-0.3612,0
+574,LOs,Lay Observers,,Court staff who oversee the running of the courts to ensure processes are being followed correctly,0,0.3818,0
+576,LPP,Local People Plan,,People's Strategy,0,0,0
+578,LPT,London Probation Trust,,,0,0,0
+580,LR,Licence Revoke,,,0,0,0
+584,LSC,Learning & Skills Council,,Replaced by Skills Funding Agency,0,0,0
+585,LSCB,Local Safeguarding Children Board,,,0,0,0
+586,LSF,Local Security Framework,,,0,0,0
+587,LTD,Late Transfer Date for a Detention Training Order,,,0,0,0
+589,MAAT,Means Assessment Administration Tool,,Web app used by caseworkers to process legal aid applications for criminal cases.,0.375,-0.4404,0
+591,MALRAP,Multi Agency Lifer Risk Assessment Panel,,,0,0,0
+592,MAPPA,Multi-Agency Public Protection Arrangements,,,0,0,0
+593,MAPPP,Multi-Agency Public Protection Prisoner,,,0,0,0
+598,MCA,Mental Capacity Act,,,0,0,0
+599,MCOL,Money Claim Online,,"Online service to ""take court action against someone if they owe you money and won’t pay you back"".",0.05,-0.1027,0
+600,MCQ,Minor Change Quotation,,Related to tender documents.,0.4,0,0
+601,MDO,Mentally Disordered Offender,,,0,0,0
+602,MDS,Minimum Data Set,,,0,0,0
+604,MFA,Multi-Factor Authentication,,,0,0,0
+606,MHA1983,Mental Health Act 1983,,,0,0,0
+607,MI,Management Information,,Data or statistics collected and used to measure performance in a business,0,0,0
+608,Microlise,GPS System allowing real-time vehicle tracking,,,0,0,0
+611,MIS,Management Information System,,,0,0,0
+612,MITM,Man In The Middle,,,0,0,0
+614,MODs,Models for Operational Delivery,,,0,0,0
+615,MOiC,Managing Offenders in Custody,,,0,0,0
+620,MOU,Memorandum Of Understanding,,,0,0,0
+622,MPS,Moving People Safely,,,0,0,0
+624,MPSI,"Ministers, Parliament, Strategy and implementation",,,0,0,0
+625,MQPL,Measuring the Quality of Prisoner Life,,,0,0,0
+626,MSV,Most Serious Violence,,,0,0,0
+627,MTD,Mid Transfer Date,,,0,0,0
+629,MTR,Legal Aid Means Test Review,,"A set of changes to the means test for legal aid. It raises thresholds, and many other changes to the rules, so that more people get legal aid, and therefore access to justice.",0.355,0.6872,0
+630,MTU,Modular Temporary Units,,,0,0,0
+631,MVP,Minimum Viable Product,,,0,0,0
+633,NA,Negotiation Advisors,,,0,0,0
+634,NACRO,National Association for the Care & Resettlement of Offenders,,,0,0,0
+635,NACS,Network Access Control Service,,A centralised in-house built authentication service that provides access to the MoJ network at a device level.,0,0,0
+636,NAO,National Audit Office,,,0,0,0
+637,NAP,National Applied Psychology Group,,,0,0,0
+638,NAPO,National Association of Probation Officers,,,0,0,0
+640,NCRD,Notional Conditional Release Date,,,0,0,0
+641,NCSC,National Cyber Security Centre,,The National Cyber Security Centre is an organisation of the United Kingdom Government that provides advice and support for the public and private sector in how to avoid computer security threats.,0.220833333,0.6486,0
+642,ND,NDelius,,,0,0,0
+643,NDE,Non-Directly Employed,,,0,0,0
+644,NDelius,National Delius,,Probation case management system,0,0,0
+647,NDPDU,National Drug Programme Delivery Unit,,,0,0,0
+649,NEET,"Not in Education, Employment, or Training",,,0,0,0
+650,NEMC,National Executive Management Committee,,,0,0,0
+651,NEPACS,(Formerly) The North East Prison After Care Society,,A charity working in the north east of England to support prisoners and their families.,0,0.296,0
+652,NFA,No Fixed Abode,,,0,0,0
+653,NFR,Non Functional Requirements,,,0,0,0
+654,NFR,Not For Release,,,0,0,0
+655,NGSS,Next Generation Shared Services,,,0,0,0
+656,NIAC,National Intelligence Assessment Centre,,,0,0,0
+658,NIMU,National Incident Management Unit,,,0,0,0
+659,NINo,National Insurance number,,,0,0,0
+660,NISE,Network Information Security Enhancement (Project),,This aims to migrate intranet applications from the existing environment to a new one for reasons of security.,0.454545455,0.34,0
+661,NMC,New Me Coping,,Sex Offender Treatment Programme (no longer running).,0,-0.3612,0
+662,NMO,Non-Molestation Order,,,0,0,0
+664,NOAT,National Operations and Assurance Team,,,0,0,0
+671,NORA,Non-ORA Sentence (under 12 months for an offence committed before 01/02/2015),,,0,0,0
+672,NORB,National Operations Readiness Board,,,0,0,0
+673,NORCET,NOMS Occupational Risk Control Evaluation Tool,,,0,0,0
+676,NPA,National Partnership Agreement,,Between Home Office and Department of Health,0,0,0
+677,NPD,Non Parole Date,,,0,0,0
+678,NPPV,Non-police personnel vetting,,,0,0,0
+679,NPS,National Probation Service,,Old name for Probation Service (changed June 2021).,0.2,0,0
+682,NQOS,Newly Qualified Officers,,,0,0,0
+683,NSF,National Security Framework,,,0,0,0
+684,NSI,Non Statutory Intervention,,,0,0,0
+685,NSJE,Non Standard Journal Entry,,,0,0,0
+686,NSMART,National Standards Monitoring And Reporting Tool,,Probation standards tool,0,0,0
+687,NSOGP,Northumbria Sex Offenders Group Programme,,Sex Offender Treatment Programme (no longer running).,0,-0.3612,0
+688,NSVC,National Security Vetting Contact,,"Someone within a team or organisation with knowledge of the security vetting process, and who can help with vetting questions or processes.",0,0.6249,0
+690,NTP,Notice to prisoners,,,0,0,0
+694,NWOW,New Ways Of Working,,,0,0,0
+695,O/C,Offence Committed,,,0,0,0
+696,OAMU,Offender Assessment and Management Unit,,,0,0,0
+699,OAT,Operational Acceptance Test,,,0,0,0
+702,OBP,Offender Behaviour Programme,,,0,0,0
+703,OBR,Office for Budget Responsibility,,,0.066666667,0,0
+704,OCA,"Observation, Categorisation and Allocation",,,0,0,0
+705,OCA,Offender classification and assessment,,,0,0,0
+706,OCC,Office for Contracts & Competitions,,Home Office department dealing with contracts for Correctional Services,0,0,0
+707,OCC,Operational Control Centre,,,0,0,0
+708,OCMC,Online Civil Money Claims,,,0,0,0
+709,ODI,Open Data Institute,,,0,0,0
+712,OFSTED,Office For Standards in Education,,,0,0,0
+713,OGD,Other Government Department,,,0,0,0
+714,OGRS,Offender Group Reconviction Scale,,Actuarial predictor of risk of reoffending,0,-0.2732,0
+717,OISG,Operational Implementation Support Group,,,0,0,0
+720,OLAP,Online Analytical Processing,,,0,0,0
+723,OM,Offender Manager,,,0,0,0
+724,OMBCG,Offender Management Business Co-ordination Group,,,0,0,0
+725,OMFQ,Offender Management Feedback Questionnaire,,,0,0,0
+726,OMI,Offender Management Inspection,,,0,0,0
+727,OMiC,Offender Management in Custody,,,0,0,0
+728,OMiC Go,"A digital solution providing basic prisoner information, auto allocation of prisoners to KW’s",,This may be an old name for the service,0.2,0,0
+729,OMIS,Overseas Market Introduction Service,,,0,0,0
+730,OMNI,Offender Management National Infrastructure,,A network used to access probation systems,0,0,0
+731,OMPPG,Offender Management Public Protection Group,,,0,0,0
+732,OMS,Other MOJ Suppliers,,,0,0,0
+733,OMSPD,Offender Management Sub-Programme Board,,,0,0,0
+734,OMU,Offender Management Unit,,"Responsible for managing your time both in prison and under supervision in the community, ensuring that your sentence is effectively administered and supporting your rehabilitation",0,0.0772,0
+735,ONR,OASys National Reporting,,,0,0,0
+736,OOH,Out of hours,,,0,0,0
+737,OPA,CCMS's Oracle Policy Automation,,Rulebase engine,0,0,0
+738,OPD,Offender Personality Disorder,,,0,0,0
+739,OPG,Office of the Public Guardian,,,0,0,0
+740,OPG,Operation Policy Group,,,0,0,0
+742,ORA,Offender Rehabilitation Act 2014,,An Act passed by parliament that made changes to the current legislative framework to support these reforms including ensuring offenders released from custodial,0.4,0.3182,0
+744,ORA2014,Offender Rehabilitation Act 2014,,,0,0,0
+746,OS,Offender Supervisor,,,0,0,0
+748,OSAG,Operational and System Assurance Group,,responsible for several of the audits we hold data for on the Hub and are mentioned in TNs,0.275,0.3182,0
+749,OSAP,Offender Substance Misuse Programme,,Substance Misuse Programme (no longer running).,0,0,0
+750,OSG,Operational Support Group/Grade,,"Operational support grades (OSGs) work in prisons carrying out duties essential to the smooth running of the establishment. They may work in and around a prison establishment or on duties which take them outside - to courts or other prisons, for example.",0.30625,-0.1531,0
+751,OSPT,Official Solicitor and Public Trustee,,,0,0,0
+752,OST,Operational Security Team,,,0,0,0
+753,OWASP,Open Web Application Security Project,,,0,0,0
+755,P-ASRO,Prisons Addressing Substance Related Offending,,Substance Misuse Programme (no longer running).,0,0,0
+756,P-NOMIS,Prison National Offender Management Information System,,Operational database used in prisons for the management of offenders.,0,-0.3612,0
+757,P3T,Personnel Physical Procedural Technical,,The areas of information assurance.,0,0.34,0
+759,PAC,Public Accounts Committee,,,0,0,0
+760,PACE,Police and Criminal Evidence Act 1984,,,0,0,0
+761,PACE1984,Police and Criminal Evidence Act 1984,,,0,0,0
+762,Pact,Prison Advice and Care Trust,,"Pact is a pioneering national charity that supports prisoners, people with convictions, and their children and families.",0,0.25,0
+763,PADA,Prospective Added Days Awarded,,"Added days that are awarded whilst an offender is unsentenced, but must be added to the release dates when sentenced.",0,-0.0129,0
+768,Parom 1,Generic Parole Assessment Report,,,0,0,0
+770,PBR,Payment By Results,,A methodology whereby payments to suppliers are contingent on the independent verification of work they have performed (results),0.3625,0,0
+771,PCC,Police and Crime Commissioner,,PCCs are elected to make sure that local police meet the needs of the community,0.444444444,0.3182,0
+772,PCC(S)A2000,Powers of Criminal Courts (Sentencing) Act 2000,,,0,0,0
+774,PCL-R,Assessment of Psychopathology,,,0,0,0
+775,PCO,Prisoner Custody Officer,,,0,0,0
+776,PCOL,Possession Claim Online,,,0,0,0
+778,PCR,Pre-sentence report,,,0,0,0
+779,PCS,Public & Commercial Services,,Civil Service union.,0,0,0
+780,PCSC,"Police, Crime, Sentencing and Courts Act 2022",,,0,0,0
+781,PCSCA2022,"Police, Crime, Sentencing and Courts Act 2022",,,0,0,0
+782,PCSO,Police Community Support Officer,,,0,0,0
+783,PCUAM,Provider Contracts and User Access Management,,,0,0,0
+784,PCVL,Prison to court video link,,,0,0,0
+785,PDA,Personal Digital Assistant,,,0,0,0
+786,PDB,Probation Delivery Board,,,0,0,0
+787,PDG,Prison Directors Group,,,0,0,0
+788,PDS,Public Defence Service,,,0,0,0
+790,PE,Physical Education,,,0,0,0
+791,PEA,Prisoner Earnings Act,,,0,0,0
+792,Peakon,People Analytics & Employee Engagement Software,,"Similar to the People Survey, but we're polled fortnightly instead of yearly",0.4,0,0
+794,PED,Parole Eligibility Date,,,0,0,0
+796,PER,Person Escort Record,,,0,0,0
+797,PETP,Prison Estates Transformation Programme,,,0,0,0
+798,PEX(ER),Public Expenditure (Efficiency and Reform) Cabinet Sub-committee,,,0,0,0
+800,PF,Policy Framework,,,0,0,0
+801,PFD,President of the Families Division,,,0,0,0
+802,PFI,Private Finance Initiative,,A way of creating 'public-private partnerships' where private firms are contracted to complete and manage public projects.,0.280555556,0.296,0
+804,PGA,Prison Governor's Association,,Governor's union,0,0,0
+805,PGD,Prison Group Director,,,0,0,0
+807,PHDP,Prison Health Delivery Plan,,,0,0,0
+808,PHE,Public Health England,,,0,0,0
+809,Phoenix,"A human resources IT system, replaced by SOP",,,0,0,0
+810,PHW,Public Health Wales,,,0,0,0
+811,PI,Probation Instruction,,,0,0,0
+812,PIA,Privacy Impact Assessment,,,0,0,0
+814,PIC,Performance Improvement Co-ordinator,,,0,0,0
+815,PID,Project Initiation Document,,,0,0,0
+816,PIMS,Provider Interaction Management System,,,0,0,0
+818,PIP,Personal Independence Payment,,,0,0,0
+819,PIP,Performance Improvement Planning,,A strand of the Benchmarking programme,0,0,0
+820,PIPES,Psychologically Informed Physical Environment Services,,,0,0,0
+823,PLP,Personal Learning Plan,https://dsdmoj.atlassian.net/wiki/spaces/RR/pages/4348772892/Personal+Learning+Plan+PLP,,0,0,0
+824,PMBLO,"Pregnancy, Mother and Baby Unit Liaison Officer",,,0,0,0
+825,PMO,Project Management Office,,Bit of organisation that sets standards for project management.,0,0,0
+826,PMP,Privately Managed Prisons,,,0,0,0
+827,PMR,Performance Management Review,,Civil Servant performance reviews,0,0,0
+828,PMU,Prison Management Unit,,,0,0,0
+829,PMU,Population Management Unit,,,0,0,0
+830,PNC,Police National Computer,,The Police National Computer is used to facilitate investigations and sharing information of both national and local importance.,0,0.6486,0
+832,PO,Prison Officer,,,0,0,0
+836,PoC,Proof of Concept,,,0,0,0
+841,POMC,Prison Operations Management Committee,,,0,0,0
+843,POPO,Prolific and Other Priority Offender,,,0,0,0
+844,POPs,Privately Operated Prisons,,,0,0,0
+845,POS,Prison Onsite Support,,,0,0,0
+848,PP,Probation Practitioner,,,0,0,0
+850,PPCS,Public Protection Casework Section,,,0,0,0
+851,PPD,Project & Program Delivery,,,0,0,0
+852,PPE,Personal Protective Equipment,,,0,0,0
+854,PPM,Project & Program Management,,,0,0,0
+857,PPO,Priority Prolific Offender,,,0,0,0
+858,PPRC,Persons posing a risk to children,,,0,0,0
+859,PPT,Prison Performance Tool,,,0,0,0
+860,PPU,Public Protection Unit,,,0,0,0
+862,PQ,Parliamentary Question,,,0,0,0
+863,PQiP,Professional Qualification in Probation,,,0,0,0
+864,PRC,Prisons Research Centre,,,0,0,0
+865,Pre Con,Previous Conviction,,,0,0,0
+867,PRP,Probation Reform Programme,,A Draft Target Operating Model for the Future of Probation Services in England and Wales,0.125,0,0
+868,PRRD,Post Recall Release Date,,,0,0,0
+870,PS,Police Sergeant,,,0,0,0
+871,PS,Probation Service,,New name (June 2021) for what was the National Probation Service.,0.454545455,0,0
+872,PSA,Public Service Agreement,,MoJ Business Objectives,0,0,0
+874,PSE,Police Sergeant Employee,,,0,0,0
+875,PSfR,Prepare someone for release,,Staff facing resettlement service,0,0,0
+876,PSG,Policy and Strategy Group,,,0,0,0
+878,PSI,Public Sector Information,,"Any information (content) whatever its medium (form) – including print, digital or electronic, and sound recordings – produced, held or disseminated by a public sector body is considered public sector information. This includes an enormous range: corporate information such as reports and financial data, codes of practice, public records, statistics, still and moving images, press releases, artefacts, publication schemes, and so on.",0.222222222,0,0
+883,PSO,Probation Service Officer,,,0,0,0
+885,PSP,Public Sector Prisons,,,0,0,0
+886,PSP,Public Social Partnership,,,0,0,0
+887,PSRs,Pre-Sentence Reports,,,0,0,0
+888,PSS,Post Sentence Supervision,,,0,0,0
+889,PSU,Personal Support Unit,,,0,0,0
+891,PTPH,Plea and Trial Preparation Hearing,,,0,0,0
+892,PTR,Prisoner Transfer Request,,,0,0,0
+897,PVO,Privileged Visiting Order,,Extra visiting credit for enhanced prisoners. One or two extra visits per month.,0.1,-0.1779,0
+899,Q&A,Questions & Answers,,,0,0,0
+900,QA,Quality Assurance,,,0,0,0
+901,QAT,Quality Assurance Testing,,,0,0,0
+902,QlikView,Third Party Business Intelligence software,,,0,0,0
+903,QPC,Quantum Principal Contact,,,0,0,0
+904,QUANTUM,Prison Service IT System,,,0,0,0
+905,R&D,Research & Development,,,0,0,0
+906,R&R,Reward & Recognition,,,0,0,0
+907,R&R,Reasoning and Rehabilitation,,,0,0,0
+909,RAA,Regional Assurance Advisor,,,0,0,0
+910,RAB,Resource Accounting & Budgeting,,,0,0,0
+911,RACI,"Responsible, Accountable, Consulted, Informed",,,0,0.4215,0
+912,RAD,Rapid Application Development,,,0,0,0
+913,RADA,Restoration of Added Days Awarded,,,0,0,0
+914,RAG,Race Advisory Group,,,0,0,0
+915,RAG,Red Amber Green,,Traffic lights system of highlighting performance figures,0,0,0
+916,RAID,"Risks, Issues, Assumptions and Dependencies",,,0,0,0
+917,RAMP,Risk Assessment and Management Panel,,,0,0,0
+918,RAR,Rehabilitation Activity Requirement,,,0,0,0
+919,RBAC,Role Based Access Control,,,0,0,0
+920,RBCP,Regional Business Change Partner,,,0,0,0
+922,RBRu,Rapid Build Residential unit,,,0,0,0
+924,RCJ,Royal Courts of Justice,,"Contains both the High Court and Courts of Appeal, based on the Stand in London. Definitely *not* like a large County Court!",0.48952381,0.222,0
+925,RCSG,Rehabilitation and Care Services Group,,,0,0,0
+927,RDC,Rapid Deployment Cells,,,0,0,0
+928,RDR,Resettlement Day Release,,Relates to RoTL (Release on Temporary Licence) documentation,0,0,0
+929,RDS,Research Development and Statistics,,,0,0,0
+930,REAG,Race & Equalities Action Group,,,0,0,0
+931,REAP,Race Equality Action Plan,,,0,0,0
+936,RIC,Remand in custody,,,0,0,0
+937,RIDDOR,"Reporting of Injuries, Diseases and Dangerous Occurrences",,,0,0,0
+938,RIDs,"Receipt, Inspection and Dispatch Units",,,0,0,0
+939,RIE,Release in Error,,,0,0,0
+943,RMADS,Risk Management and Accreditation Document Set,,,0,0,0
+944,RMP,Risk Management Plan,,,0,0,0
+946,RoCLA,Review of Civil Legal Aid,,,0,0,0
+947,RoH,Risk of Harm,,,0,0,0
+949,ROPARPS,The Release of Prisoners (Alteration of Relevant Proportion of Sentence) Order 2020,,,0,0,0
+950,ROPARPS2020,The Release of Prisoners (Alteration of Relevant Proportion of Sentence) Order 2020,,,0,0,0
+951,ROR,Resettlement Overnight Release,,Relates to RoTL (Release on Temporary Licence) documentation,0,0,0
+953,ROSH,Risk of Serious Harm,,,0,0,0
+955,RP,Rolling Programme,,Sex Offender Treatment Programme (no longer running).,0,-0.3612,0
+956,RPA,Robotic Process Automation,,,0,0,0
+957,RPD,Regional Probation Director,,,0,0,0
+958,RPM,Royal Prerogative of Mercy,,,0,0,0
+959,RPTS,Residential Property Tribunal Service,,,0,0,0
+960,RRAP,Reducing re-offending Regional Action Plan,,,0,0,0
+961,RRDS,Records Retention and Disposition Schedule,,,0,0,0
+962,RRLO,Race Relations Liaison Officer,,,0,0,0
+963,RRMT,Race Relations Management Team,,,0,0,0
+964,RS,Restricted Status prisoners,,,0,0,0
+965,RSG,Rehabilitation Services Group,,,0,0,0
+966,RSHO,Risk of Sexual Harm Order,,,0,0,0
+967,RSIPB,Resource Strategy Implementation Programme Board,,,0,0,0
+968,RSR,Risk of Serious Recidivism,,Algorithmic predictor,0,0,0
+969,RTM,Requirements Traceability Matrix,,,0,0,0
+970,RTUs,Ready To Use Units,,,0,0,0
+972,Rx,Remand to Custody,,,0,0,0
+973,S&A,Strategy & Assurance,,,0,0,0
+974,S3,Simple Storage Service,,Amazon's data storage service,0,0,0
+975,SA2020,Sentencing Act 2020,,,0,0,0
+978,SARA,Spousal Assault Risk Assessment,,,0,0,0
+979,SARN,Structured Assessment of Risk and Need,,,0,0,0
+980,SASH,Suicide and Self Harm,,,0,0,0
+981,SAU,Standards Audit Unit,,,0,0,0
+983,SBC,"Specification, Benchmarking and Costing",,,0,0,0
+984,SC,Security Check,,Level of Security Clearance,0,0.34,0
+985,SC2020,Sentencing Code 2020,,,0,0,0
+986,SCA,Start Custody Assessments,,,0,0,0
+987,SCA2007,Serious Crime Act 2007,,,0,0,0
+988,SCC,Service Civilian Court,,,0,0,0
+989,SCC,Specialist Computer Centres,,Providers of web hosting,0,0,0
+990,SCG,Safer Custody Group,,,0,0,0
+992,SCMS,Small Claims Mediation Service,,"Mediation service for people involved in small claim disputes. Applies to cases worth less than £10,000.",0.188888889,-0.0516,0
+994,SCS,Senior Civil Servant,,"Someone with a senior post in the Civil Service, for example a Director.",0,0,0
+995,SCSBP,Senior Civil Service Business Partner,,Organisation or individual who assists during recruitment of a Senior Civil Servant.,0.4,0,0
+997,SCU,Separation & Care Unit,,Also / previously known as the Segregation Unit (Seg),0.166666667,0,0
+998,SDI,Service Delivery Indicator,,,0,0,0
+999,SDO,Standard Directions Order,,"Instructions from the court, issued to parties on how they should prepare for a legal case",0.2,0.4939,0
+1000,SDOPC,Special Sentence of Detention for Terrorist Offenders of Particular Concern,,,0,0,0
+1001,SDP,Short Duration Programme,,Substance Misuse Programme (no longer running).,0,0,0
+1002,SDR,Service Delivery Requirements,,,0,0,0
+1003,SDS,"Safe, Decent & Secure",,,0,0,0
+1005,SDS,Standard Determinate Sentence,,,0,0,0
+1006,SDS+,Standard Determinate Sentence Plus (2/3rds release,,,0,0,0
+1007,SDT,Safety Diagnostic Tool,,,0,0,0
+1008,SED,Sentence Expiry Date,,,0,0,0
+1009,SEG,Strategy and Effectiveness Group,,,0,0,0
+1013,SFA,Skills Funding Agency,,"A partner organisation of the Department for Business, Innovation and Skills and our job is to fund and regulate adult further education and skills training in England.",0.4,0.3818,0
+1014,SFO,Serious Further Offence,,,0,0,0
+1015,SHA,Strategic Health Authority,,,0,0,0
+1018,SHPO,Sexual Harm Prevention Orders,,,0,0,0
+1019,SID,Self Inflicted Death,,,0,0,0
+1020,SIDs,Self Inflicted Death,,,0,0,0
+1021,SIG,Service Integration Group,,,0,0,0
+1022,SIM,Service Incident and Management,,,0,0,0
+1023,SiP,Staff in Post,,,0,0,0
+1024,SIR,Security Information Record,,,0,0,0
+1026,SIRB,Security Information Risk Board,,,0,0,0
+1027,SIRO,Senior Information Risk Owner,,,0,0,0
+1028,SIWG,Strategy and Implementation Working Group,,,0,0,0
+1029,SL,Service Level measure,,"Synonymous with “service level”, “performance measure”, “performance metric” and “assurance metric”. These are descriptions of the activities monitored for performance purposes.",0,0,0
+1030,SLA,Service Level Agreement,,,0,0,0
+1031,SLC,Student Loans Company,,,0,0,0
+1032,SLED,Sentence and Licence Expiry Date,,,0,0,0
+1033,SLM,Send legal mail to prisons,,,0,0,0
+1034,SMART,Specific Measureable Achievable Realistic Time-bound,,,0,0,0
+1035,SMB,Strategic Management Board,,,0,0,0
+1036,SME,Small or medium-sized enterprise,,,0,0,0
+1038,SMOD,Subject Matter of Dispute,,"If a legal dispute is about the ownership of an asset, then the value of that asset may be treated differently when calculating eligibility for legal aid for the dispute",0.333333333,0.4588,0
+1039,SMP,Substance Misuse Programme,,,0,0,0
+1041,SMT,Senior Management Team,,,0,0,0
+1043,SO,Supervising Officer,,,0,0,0
+1045,SOCT,"Security, Order and Counter Terrorism",,,0,0,0
+1046,SoMo,Social Mobility,,,0,0,0
+1048,SOP,Standard Operating Procedure,,,0,0,0
+1049,SOPC,Special Custodial Sentence for Certain Offenders of Particular Concern,,,0,0,0
+1050,SoS,Secretary of State,,The Cabinet Minister in charge of a government department.,0,0,0
+1051,SOTP,Sex Offender Treatment programme,,,0,0,0
+1052,SPC,Suicide Prevention Co-ordinator,,,0,0,0
+1053,SPG,Strategic Partner Gateway,,,0,0,0
+1054,SPIP,Separated Parents Information Program,,Organises parent meetings with moderator.,0,0,0
+1056,SPO,Senior Probation Officer,,,0,0,0
+1057,SPO,Sentence Plan Outcomes,,,0,0,0
+1058,SPOC,Single Point of Contact,,,0,0,0
+1059,SPOF,Single Point of Failure,,"Often refers to a single system, machine or person without which/whom a process/system/company will grind to a halt.",0.214285714,0,0
+1060,SPR,Sentence Planning & Review,,,0,0,0
+1061,SPRM,Sentence Plan Review Meeting,,,0,0,0
+1062,SPTL,Suicide Prevention team Leader,,,0,0,0
+1063,SR,Service Release,,Used by NDelius application team to reference releases,0,0,0
+1064,SRA,Security Risk Assessments,,,0,0,0
+1065,SRE,Site Reliability Engineer,,,0,0,0
+1067,SRO,Sexual Risk of Harm Order,,,0,0,0
+1070,SSCS,Social security and child support,,"As in 'Social Security and Child Support Tribunal', which deals with appeals about benefits decisions.",0.066666667,0.7717,0
+1071,SSCU,"Separation, Support and Care (segregation) Unit",,,0,0,0
+1073,SSO,Suspended Sentence Order,,,0,0,0
+1074,SSOT,Single Source Of Truth,,,0,0,0
+1075,SSP,Shared Services Programme,,,0,0,0
+1076,STC,Secure Training Centre,,"Privately-run, education-focussed centres for children aged 12-17.",0.4,0,0
+1077,STOP,"Substance, Treatment and Offending Programme",,Drugs programme,0,0,0
+1078,STS,Serious Terrorism Sentence,,,0,0,0
+1079,SU,Service User,,An offender in probation parlance,0,-0.3612,0
+1084,Syscon,Software company who provide Prison-NOMIS,,"""Syscon Justice Systems is the world's leading provider of offender management solutions, used by more jails and prisons to manage offenders than any other""",0.4375,0.0258,0
+1085,SystmOne,Name for the digital Healthcare System used by prison NHS staff,,"Often referred to as System One, but whilst it’s pronounced the same, the e isn’t actually in the name.",0.1125,0,0
+1086,TA,Technical Architecture,,,0,0,0
+1088,TAD,Technical Architecture Document,,,0,0,0
+1090,TC,Therapeutic Community,,,0,0,0
+1091,TCEP,Transforming Compliance and Enforcement Project/Programme,,,0,0,0
+1092,TCM,Temporary Custodial Module,,,0,0,0
+1093,TCoP,Technology Code of Practice,,The Technology Code of Practice is a cross-government agreed standard used for the [Cabinet Office spend control](https://www.gov.uk/government/collections/cabinet-office-controls) process and the [Local Digital Declaration](https://www.localdigital.gov.uk/declaration/).,0,0.2732,0
+1094,TDiP,Transforming Delivery in Prisons,,,0,0,0
+1095,TED,Tariff Expiry Date,,,0,0,0
+1097,TERS,Tariff Early Removal Scheme,,,0,0,0
+1098,TERSED,Tariff Early Removal Scheme Eligibility Date,,,0,0,0
+1100,THD,Target Hearing Date,,,0,0,0
+1102,TIL,Today I Learned,,,0,0,0
+1104,TLA,Three Letter Acronym,,,0,0,0
+1106,TMB,The Magenta Book,,"The Magenta Book is a set of guidance notes for policy evaluators and analysts, and people who use and commission policy evaluation.",0,0,0
+1107,TN,Technical Note,,"A Hub document which provides the technical details of the service level measures, including how they are calculated.",0.1,0,0
+1108,TNA,The National Archives,,,0,0,0
+1109,TNA,Training Needs Analysis,,,0,0,0
+1110,TOIL,Time Off in Lieu,,,0,0,0
+1111,ToR,Terms of reference,,,0,0,0
+1113,TORERA,Terrorist Offenders (Restriction of Early Release) Act 2020,,,0,0,0
+1114,TORERA2020,Terrorist Offenders (Restriction of Early Release) Act 2020,,,0,0,0
+1115,TP,Temporary Promotion,,Term usually used in relation to short term career promotions and covering the role of a higher band member of staff,0.35,0,0
+1116,TR,Transforming Rehabilitation,,,0,0,0
+1117,Traka,"Traka key systems only allow authorised users to access prison keys, ensuring they remain accounted for at all times.",,,0,0,0
+1121,TUPE,TUPE stands for Transfer of Undertakings (Protection of Employment),,,0,0,0
+1122,TUSED,Top Up Supervision Expiry Date,,,0,0,0
+1123,TV,Tender Verification,,,0,0,0
+1124,TVM,Transaction Volume Model,,,0,0,0
+1125,TVSOGP,Thames Valley Sex Offenders Group Programme,,Sex Offender Treatment Programme (no longer running).,0,-0.3612,0
+1126,TW3,The Way We Work,,,0,0,0
+1127,UAL,Unlawfully At Large,,,0,0,0
+1128,UAT,User Acceptance Test,,,0,0,0
+1129,UC,Universal Credit,,,0,0,0
+1130,UCPD,User Centred Policy Design,,,0,0,0
+1131,UI,User Interface,,,0,0,0
+1132,UKTI,UK Trade & Investment,,,0,0,0
+1134,UPC,Unwanted prisoner contact,,,0,0,0
+1135,UPW,UnPaid Work,,,0,0,0
+1136,UX,User Experience,,,0,0,0
+1138,VC,The Virtual Campus,,,0,0,0
+1139,VCC,Video Conferencing Centres,,"Video conferencing centres (VCCs) are modern video facilities, purpose-built in prisons that serve the courts. VCCs are designed so they are suitable for court and parole hearings. They are also suitable for legal consultations. VCCs are not used for family or social visits by video call.",0.413333333,0.128,0
+1141,VCS,Voluntary & Community Sector,,,0,0,0
+1142,VDS,Virtual Desktop Services,,,0,0,0
+1144,VDT,Voluntary Drug Testing,,"A scheme that allowed offenders to sign a compact agreeing to be drug tested at regular intervals to help them remain drug free & help them prove this, usually as part of their sentence plan, or in cases relating to Social Services etc.",0.298397436,0.836,0
+1146,VEDS,Voluntary Early Departure Scheme,,"A scheme introduced around 2008, to allow Uniformed Prison Staff to retire early with a lump sum payment.",0.3,-0.34,0
+1147,VHS,Video Hearings Service,,,0,0,0
+1148,VICSO,Veteran in Custody Support Officer,,,0,0,0
+1149,VICTOR/VICTOR ONE,Victor One,,"Duty Governor in charge of the prison each day. This is one of the few call signs that remain consistent across all prisons, to allow any visiting staff to be able to radio for assistance quickly when needed.",0.36875,-0.34,0
+1150,ViCTOR,Velocity Intune Configurator,,,0,0,0
+1151,VIS,Victims Information Service,,,0,0,0
+1153,VLE,Virtual Learning Environments,,,0,0,0
+1154,VO,Visiting Order,,Visiting credit for prisoners in the form of a reference number. Usually 2 a month.,0.25,-0.1027,0
+1155,VOM,Vehicle Operations Manager,,,0,0,0
+1156,VP,Vulnerable Prisoner,,,0,0,0
+1157,VPS,Virtual Private Server,,,0,0,0
+1158,VPU,Vulnerable Prisoner Unit,,,0,0,0
+1160,VSR,Victim Summary Reports,,,0,0,0
+1162,WAN,Wide Area Network,,,0,0,0
+1164,WAV,Weighted Average Volumes,,,0,0,0
+1165,WCAG,Web Content Accessibility Guidelines,https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag,,0,0,0
+1166,WFH,Work From Home,,,0,0,0
+1167,WFPT,Workforce Planning Tool,,,0,0,0
+1168,WIS,Witness Intermediary Scheme,,,0,0,0
+1169,WLB,Work-Life Balance,,,0,0,0
+1170,WLMT,WorkLoad Measurement Tool,,,0,0,0
+1174,WVD,Windows Virtual Desktop,,,0,0,0
+1178,YCS,Youth Custody Service,,,0,0,0
+1179,YJAF,Youth Justice Application Framework,,,0,0,0
+1180,YJB,Youth Justice Board,,,0,0,0
+1181,YO,Young Offender,,,0,0,0
+1182,YOA,Young Adult Offenders,,,0,0,0
+1183,YOI,Young Offender Institution,,"A type of facility in England and Wales designed for individuals aged 18-20 who have committed offenses, although some facilities also accommodate younger individuals.",0.2,-0.1027,0
+1184,YOS,Youth Offending Service,,,0,0,0
+1186,YTD,Year To Date,,,0,0,0

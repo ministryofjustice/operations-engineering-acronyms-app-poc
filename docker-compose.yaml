@@ -2,21 +2,43 @@ version: "3.9"
 services:
   app:
     build: .
-    image: "operations-engineering-flask-application"
-    container_name: "operations-engineering-flask-application"
+    image: "operations-engineering-acronyms-app"
+    container_name: "operations-engineering-acronyms-app"
     environment:
-      # GitHub
-      ADMIN_GITHUB_TOKEN: fake
-
-      # Flask
+      AUTH_ENABLED: false
+      POSTGRES_PASSWORD: admin
+      POSTGRES_USER: admin
+      POSTGRES_DB: admin
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
       APP_SECRET_KEY: dev
       FLASK_DEBUG: true
-
-      # Sentry
-      # SENTRY_DSN_KEY:
-      SENTRY_ENV: local
-
-      # App
-      LOGGING_LEVEL: "DEBUG"
+      API_KEY: test
     ports:
       - "4567:4567"
+    depends_on:
+      postgres:
+        condition: service_healthy
+        restart: true
+    networks:
+      - acronyms-app
+
+  postgres:
+    image: postgres:14-alpine
+    container_name: "postgres"
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_PASSWORD=admin
+      - POSTGRES_USER=admin
+      - POSTGRES_DB=admin
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U admin"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - acronyms-app
+
+networks:
+  acronyms-app:
