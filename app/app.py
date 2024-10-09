@@ -2,7 +2,6 @@
 import logging
 
 from flask import Flask
-from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 
 from app.main.config.app_config import app_config
