@@ -6,7 +6,7 @@ name = "pypi"
 [scripts]
 list_outdated = "pip list --outdated"
 tests = "coverage run -m unittest discover -s test -v"
-tests_report = "coverage report --omit=./test/** --sort=cover --show-missing --skip-empty"
+# tests_report = "coverage report --omit=./test/** --sort=cover --show-missing --skip-empty"
 
 [packages]
 email-validator = "==2.1.0.post1"

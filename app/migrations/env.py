@@ -1,4 +1,4 @@
-# pylint: disable=W0621
+# pylint: disable=W0621, W0613
 import logging
 from logging.config import fileConfig
 
