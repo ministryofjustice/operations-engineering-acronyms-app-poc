@@ -1,3 +1,4 @@
+# pylint: disable=R0903
 from flask_sqlalchemy import SQLAlchemy
 
 db = SQLAlchemy()

@@ -54,6 +54,6 @@ def downgrade():
     for acronym in acronyms_to_delete:
         op.execute(
             acronyms.delete().where(
-                (acronyms.c.abbreviation == acronym['abbreviation']) 
+                (acronyms.c.abbreviation == acronym['abbreviation'])
             )
         )
