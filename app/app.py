@@ -15,6 +15,7 @@ from app.main.config.routes_config import configure_routes
 from app.models import db
 
 logger = logging.getLogger(__name__)
+migrate = Migrate()
 
 
 def create_app(is_rate_limit_enabled=True) -> Flask:
@@ -28,7 +29,7 @@ def create_app(is_rate_limit_enabled=True) -> Flask:
     app.config['SQLALCHEMY_DATABASE_URI'] = app_config.postgres.sql_alchemy_database_url
 
     db.init_app(app)
-    Migrate(app, db)
+    migrate.init_app(app, db)
 
     configure_routes(app)
     configure_error_handlers(app)
