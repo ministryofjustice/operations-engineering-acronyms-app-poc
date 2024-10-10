@@ -61,14 +61,14 @@ jobs:
 
       - name: Deploy helm chart to dev
         run: |
-          helm upgrade application\
-            helm/application \
+          helm upgrade acronyms-app\
+            helm/acronyms-app \
             --install \
             --force \
             --wait \
             --timeout 10m \
             --namespace ${KUBE_NAMESPACE} \
-            --values=helm/application/values-dev.yaml \
+            --values=helm/acronyms-app/values-dev.yaml \
             --set app.deployment.env.APP_SECRET_KEY=${FLASK_APP_SECRET} \
             --set app.deployment.env.POSTGRES_USER=${POSTGRES_USER} \
             --set app.deployment.env.POSTGRES_PASSWORD=${POSTGRES_PASSWORD} \

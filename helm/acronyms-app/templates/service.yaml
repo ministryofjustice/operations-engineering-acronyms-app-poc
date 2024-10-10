@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ include "acronyms-app.fullname" . }}
+  labels: {{- include "acronyms-app.labels" . | nindent 4 }}
+spec:
+  ports:
+    - port: 80
+      targetPort: 4567
+      name: https
+  selector: {{- include "acronyms-app.selectorLabels" . | nindent 4 }}
