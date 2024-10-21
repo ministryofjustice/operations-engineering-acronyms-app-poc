@@ -29,7 +29,7 @@ USER appuser
 COPY --chown=appuser:appgroup Pipfile Pipfile.lock ./
 
 # Install dependencies without --system
-RUN pipenv install --deploy --ignore-pipfile
+RUN pipenv install --system --deploy --ignore-pipfile
 
 # Copy application code
 COPY --chown=appuser:appgroup app app
