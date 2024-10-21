@@ -1,4 +1,4 @@
-FROM python:3.12-alpine
+FROM python:3.12-alpine3.20
 
 LABEL maintainer="operations-engineering <operations-engineering@digital.justice.gov.uk>"
 
