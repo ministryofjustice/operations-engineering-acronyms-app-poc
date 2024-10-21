@@ -10,6 +10,9 @@ RUN apk add --no-cache --no-progress \
   && apk update \
   && apk upgrade --no-cache --available
 
+# Upgrade pip
+RUN pip install --no-cache-dir --upgrade pip
+
 # Install pipenv
 RUN pip install --no-cache-dir pipenv==2024.1.0
 
