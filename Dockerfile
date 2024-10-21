@@ -1,4 +1,4 @@
-FROM python:3.12.0-alpine3.18
+FROM python:3.12-alpine3.20
 
 LABEL maintainer="operations-engineering <operations-engineering@digital.justice.gov.uk>"
 
@@ -10,8 +10,8 @@ RUN apk add --no-cache --no-progress \
   && apk update \
   && apk upgrade --no-cache --available
 
-# Install pipenv
-RUN pip install --no-cache-dir pipenv==2024.1.0
+# Upgrade pip
+RUN pip install --no-cache-dir --upgrade pip==24.2 pipenv==2024.1.0
 
 # Create user and group
 RUN addgroup -S appgroup && adduser -S appuser -G appgroup -u 1051
