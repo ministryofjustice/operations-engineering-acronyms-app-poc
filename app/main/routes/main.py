@@ -1,8 +1,14 @@
-from flask import Blueprint, current_app, redirect, render_template, request
+from flask import Blueprint, render_template
+from ...models import Acronym
+
 
 main = Blueprint("main", __name__)
 
 
 @main.route("/")
 def index():
-    return render_template("pages/main.html")
+
+    # Query users from the database (example)
+    acronyms = Acronym.query.all()
+
+    return render_template('pages/main.html', acronyms=acronyms)
