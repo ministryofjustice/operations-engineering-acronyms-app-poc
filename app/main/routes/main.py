@@ -8,7 +8,6 @@ main = Blueprint("main", __name__)
 def index():
     search_term = ""
 
-
     if request.method == "POST":
         search_term = request.form.get("name", "").strip()
 
